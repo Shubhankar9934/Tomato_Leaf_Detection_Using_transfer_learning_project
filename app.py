@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 11 22:34:20 2022
 
-@author: Shubhnakar Kumar
+@author: Shubhankar Kumar
 """
 
 from __future__ import division, print_function
