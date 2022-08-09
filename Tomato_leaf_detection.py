@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 31 04:01:14 2022
 
-@author: shubh
+@author: shubhankar kumar
 """
 
 # Tomato Leaf Detection
